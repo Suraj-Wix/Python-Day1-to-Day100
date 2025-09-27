@@ -26,5 +26,15 @@
 # for k in range(1,20001):# 1 to 8
 #     print(k)
     
+# for k in range(1,12,3):# 1 to 11 with step 3
+#     print(k)
+
+# for k in range(1,20001):# 1 to 8
+#     print(k)
+
 for k in range(1,12,3):# 1 to 11 with step 3
     print(k)
+
+
+# for i in range(1000):
+#     print("11")
