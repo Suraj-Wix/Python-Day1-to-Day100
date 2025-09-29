@@ -2,14 +2,14 @@
 **100 Days of Python Challenge** – A structured roadmap to master Python from beginner to advanced in 100 days. Learn the fundamentals, build real-world projects, and explore data science, web development, and machine learning with Python.
 
 ##  What You’ll Learn  
-- ✅ Python Basics – variables, data types, loops, functions  
-- ✅ Intermediate – file handling, regex, OOP, exceptions  
-- ✅ Advanced – decorators, multithreading, async, testing  
-- ✅ Libraries – NumPy, Pandas, Matplotlib, Seaborn  
-- ✅ Automation – APIs, web scraping, Excel handling  
-- ✅ Web Development – Flask & Streamlit  
-- ✅ Machine Learning – scikit-learn basics, ML projects  
-- ✅ Real-World Projects – calculators, scrapers, dashboards, ML apps
+-  Python Basics – variables, data types, loops, functions  
+-  Intermediate – file handling, regex, OOP, exceptions  
+-  Advanced – decorators, multithreading, async, testing  
+-  Libraries – NumPy, Pandas, Matplotlib, Seaborn  
+-  Automation – APIs, web scraping, Excel handling  
+-  Web Development – Flask & Streamlit  
+-  Machine Learning – scikit-learn basics, ML projects  
+-  Real-World Projects – calculators, scrapers, dashboards, ML apps
   
 ##  Roadmap (Day 1–100)  
 - **Day 1–20:** Python Basics  
@@ -49,3 +49,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ##  License  
 This repository is licensed under the MIT License.  
 ###  Don’t forget to **star** this repo if you find it helpful!  
+
